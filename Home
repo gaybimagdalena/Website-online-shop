@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>TTS WEB</title>
+</head>
+<body>
+
+	<table border="0" width="950px" align="center" bgcolor="#006400" >
+		<tr height="250px">
+			<td>
+				<table width="950px" cellpadding="0" cellspacing="0">
+					<tr>
+						<td cellpadding="0" cellspacing="0"><img src="GbrHeader.jpg"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table border="0" cellpadding="0" cellspacing="0" bgcolor="#006400">
+					<tr height="400px">
+						<td>
+							<table border="0" width="250px" border="0" cellpadding="0" cellspacing="0" align="center">
+								<tr>
+									<td>
+										<table width="180px" height="40px" bgcolor="white" align="center">
+											<td><center><font face="Ariel"><b>MENU</b></font></center></td>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td><a href="#"><font color="white"><center><br>HOME<hr></center></font></a></td>
+								</tr>
+								<tr>
+									<td><a href="#"><font color="white"><center>ABOUT<hr></center></font></a></td>
+								</tr>
+								<tr>
+									<td><a href="#"><font color="white"><center>CONTACT US<hr></center></font></a></td>
+								</tr>
+								<tr>
+									<td><a href="#"><font color="white"><center>PRODUCTS<hr></center></font></a></td>
+								</tr>
+								<tr height="40px">
+									<td>
+										<table width="180px" height="40"  bgcolor="white" align="center">
+											<td><center><font face="Ariel"><b>USER STATISTIC</b></font></center></td>
+										</table>
+									</td>
+								</tr>
+								<tr height="70px">
+									<td><font color="white">
+										<ul>
+											<li>Visitors Today: 50</li>
+											<li>Total Visitors: 240</li>
+										</ul>
+										<ul>
+											<li>Total Buyers Today: 40</li>
+											<li>Total Buyers: 150</li>
+										</ul>
+										</font>
+									</td>
+								</tr>
+								<tr height="190px" align="center">
+									<td><img src="image000.png"></td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<table border="0" width="700px" border="1" cellpadding="0" cellspacing="10" bgcolor="white">
+								<td><font face="verdana"><h2>Selamat Datang di Tani Store</h2></font></td>
+								<tr  align="center" >
+									<td><img src="GbrContent.jpg"></td>
+								</tr>
+								<tr height="90px">
+									<td><font face="ariel" size="2px">Hadir di era teknologi jaringan internet yang mulai berkembang pesat di Indonesia. Sebuah situs jual beli hasil pertanian/ Jual Beli Hasil Bumi online bernama www.TaniStore.com
+										<br><br>TaniStore.com adalah Website Komunitas Pusat Bisnis Tempat Jual Beli Hasil Pertanian Online | Silahkan menggunakan listing iklan GRATIS kami untuk hasil pertanian Anda, manfaatkan fasilitas IKLAN PREMIUM untuk jangkauan yang lebih luas dan sering dilihat pengunjung website.
+										<br><br>TaniStore.com menyediakan sarana untuk menawarkan peluang usaha/ kerjasama yang saling menguntungkan kaitan dengan dunia pertanian secara luas
+										<br><br> Untuk informasi lebih lanjut dapat menghubungi nomor dibawah ini.
+										<br>
+										<ul>
+											<li>Phone :O812001200</li>
+											<li>Email :TaniStore@gmail.com</li>
+										</ul>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr height="40px" align="center">
+		<td><font size="1" color="white">Copyright (c) 2021 TaniStore.com. All rights reserved</font></td>
+	</tr>
+</table>
+
+</body>
+</html>
